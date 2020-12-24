@@ -1,0 +1,11 @@
+header {
+    width: 100%;
+}
+.mainTitleDiv {
+    width: 100%;
+    align-content: center;
+}
+.mainTitle {
+    text-align: center;
+    color: blue;
+}
